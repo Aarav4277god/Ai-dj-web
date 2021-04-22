@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+}
+canvas{
+    border: 15px solid cyan;
+    border-radius: 20px;
+    
+    }
